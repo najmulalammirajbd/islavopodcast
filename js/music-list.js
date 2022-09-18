@@ -11,8 +11,8 @@
 
 let allMusic = [
   {
-    name: " ISLAVO PODCAST । EP: 01 ",
-    artist: " Guest: Mamunur Rashid , Sobujkuri ",
+    name: " islavo show । ep: 01 ",
+    artist: " guest: mamunur rashid , sobujkuri ",
     img: "music-1",
     src: "music-1"
   },
